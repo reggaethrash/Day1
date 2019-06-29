@@ -1,0 +1,19 @@
+.jumbotron {
+    background-color: aqua
+    border-radius
+}
+.btn {
+    border-radius: 
+}
+.col-sm-4:nth-child(even){
+    background-color: blue
+
+}
+.col-sm-4:nth-child(odd){
+    background-color: blueviolet
+
+}
+.row {
+    margin: auto;
+    margin-bottom: 20px;
+}
